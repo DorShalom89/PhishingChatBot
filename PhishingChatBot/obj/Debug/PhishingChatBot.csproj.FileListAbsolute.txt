@@ -1,0 +1,11 @@
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\bin\Debug\PhishingChatBot.exe.config
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\bin\Debug\PhishingChatBot.exe
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\bin\Debug\PhishingChatBot.pdb
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.csprojAssemblyReference.cache
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.Form1.resources
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.Properties.Resources.resources
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.csproj.GenerateResource.cache
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.exe
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\obj\Debug\PhishingChatBot.pdb
+C:\Users\Dor\source\repos\PhishingChatBot\PhishingChatBot\bin\Debug\Data\Phishtank.csv
